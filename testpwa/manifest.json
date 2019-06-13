@@ -1,0 +1,13 @@
+{
+    "name": "testpwa",
+    "short_name": "testpwa",
+    "lang": "en-US",
+    "start_url": "/index.html",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://img.icons8.com/color/48/000000/comic-book.png"
+        }
+    ]
+}
